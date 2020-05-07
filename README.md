@@ -1,8 +1,7 @@
 # Simple Video Steganography using LSB encoding
 
-# Built off of the Simple Image Steganography using LSB encoding program
-# originally created by Dr. Miguel Alonso Jr.
-# Note: "pom.txt" is only an example text file used to test the vsteg program.
+Built off of the Simple Image Steganography using LSB encoding program originally created by Dr. Miguel Alonso Jr.
+Note: "pom.txt" is only an example text file used to test the vsteg program.
 
 ## To Compile
 
