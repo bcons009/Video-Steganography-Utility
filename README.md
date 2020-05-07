@@ -2,6 +2,8 @@
 
 Built off of the Simple Image Steganography using LSB encoding program originally created by Dr. Miguel Alonso Jr. Tested with .txt encryption onto .mp4 and .mov files.
 
+Last updated: 4/17/19
+
 Note: Any .txt file can be used for encryption purposes, but I've left "pom.txt" as an example text file for quick testing purposes.
 
 ## To Compile
