@@ -4,7 +4,10 @@ Built off of the Simple Image Steganography using LSB encoding program originall
 
 Last updated: 4/17/19
 
-Note: Any .txt file can be used for encryption purposes, but I've left "pom.txt" as an example text file for quick testing purposes.
+**Note:** 
+- FFMPEG must be installed on your system in order for this program to work.
+- This program runs using command line arguments, and has been primarily tested for Linux environments.
+- Any .txt file can be used for encryption purposes, but I've left "pom.txt" as an example text file for quick testing purposes.
 
 ## To Compile
 
